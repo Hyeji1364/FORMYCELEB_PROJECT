@@ -1,8 +1,20 @@
-# formyceleb
+# formyceleb🤍 : Introduce 
+아이돌 사진을 한번에 볼 수 있는 사진 감상 및 저장 사이트
 
-![image](https://github.com/gnlgk/formyceleb/assets/161431748/fa5fafaa-f364-42ae-a74f-b89c9b9d0dcc)
+## 💫 기획의도 
+내가 좋아하는 연예인의 사진을 한번에 볼 수 있는 사이트를 기획하는데 초안을 잡았습니다.<br>
+연예인의 정보가 한번에 있는 사이트는 사진의 퀄리티가 떨어지고, 사진을 볼 수 있는 사이트에는 커뮤니티가 형성되지 않고 있습니다. <br>
+연예인 사진이 모여있으면서 커뮤니티 형성이 된 사이트를 기획하였고, 그 기획의도에 따라 프로젝트를 시작하였습니다.
 
-_아이돌 사진을 한눈에! 편리한 아이돌 사진 감상 사이트 "formyceleb"_
+## 👨‍👩‍👧 조원
+- 김혜지
+- 박진아
+- 송성민
+
+## 참고 사이트
+- 기능 및 사이트 참고 : 핀터레스트 (https://kr.pinterest.com/)
+- 디자인 참고 : 오늘의 집 (https://store.ohou.se/) 
+
 
 ## Introduce
 
@@ -48,25 +60,3 @@ _아이돌 사진을 한눈에! 편리한 아이돌 사진 감상 사이트 "for
 
 ## design
 
-![image](https://github.com/gnlgk/formyceleb/assets/161431748/f9329b0d-09e2-45d2-89d9-2e9796975156)
-
-![image](https://github.com/gnlgk/formyceleb/assets/161431748/a5f36079-d370-4e2b-a753-ccc2a7d3113d)
-
-![image](https://github.com/gnlgk/formyceleb/assets/161431748/190ade7e-e8b6-49fd-b4f3-7896cd664c02)
-
-![image](https://github.com/gnlgk/formyceleb/assets/161431748/a6a96a02-ae9f-4ede-b3c1-64ddcac91ad1)
-
-## Process
-
-![image](https://github.com/gnlgk/formyceleb/assets/161431748/1b43522f-2415-4c5f-b6a4-cc1cb46be14e)
-
-![IMG_1194](https://github.com/gnlgk/formyceleb/assets/161431748/1e5d4283-b8a6-4627-96f0-91f6c3866e83)
-
-## Who we are?
-
-- 박진아
-  - [github](https://github.com/gnlgk)
-- 송성민
-  - [github](https://github.com/Kingsong97)
-- 김혜지
-  - [github](https://github.com/Hyeji1364)
